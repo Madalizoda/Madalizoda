@@ -1,0 +1,7 @@
+print()
+print("aaa")
+print("bbb", "ccc")
+print("\n=======\n")
+print("aaa", end=" *-* ")
+print("bbb", "ccc", sep=" %%% ")
+print("bbb", "ccc", sep=" Madalizoda ", end=" Zikrullokhon")
